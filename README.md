@@ -1,1 +1,2 @@
-# JogoDoErro
+# synchronousBallMovement
+Ball moving synchronously
